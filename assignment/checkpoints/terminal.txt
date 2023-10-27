@@ -9,11 +9,11 @@
 # 4 - What is a quick way to create a new folder?
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+ls in an empty folder will just show the folder again.  Ls in a folder containing itmes will show a list of the items, including folders and files
 # 6 - What is a quick way to create a new file?
-
+touch 
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.33.0
 # 8 - Why would you run the command 'git status'?
 
 # 9 - What does the command 'git add .' do?
