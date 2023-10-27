@@ -19,4 +19,4 @@ To tell you what the current status is of your changes in your files on your com
 # 9 - What does the command 'git add .' do?
 It adds the files to the index (keeps track of them) until you commit them (save them)
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-The command is git push
+The command is git push origin main.
