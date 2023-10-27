@@ -1,12 +1,14 @@
 /* Add a background color to the header element */
-header {background-color: chartreuse;}
+header {background-color: lavenderblush;}
 /* Add a fun background color to the main element */
-main {background-color: darkslateblue;}
+main {background-color:mediumorchid;}
 /* Align the h1 containing your name in the center of the header*/
-h1 {text-align: center;}
-h3 {text-align: center;}
+h1 {text-align: center;
+    color: rgb(134, 226, 43);}
+h3 {text-align: center;
+    color:mediumblue;}
 /* Make your p tag a different color and italic */
-p {color: crimson;
+p {color:darkblue;
    font-style: italic;}
 /* Put a border around your image */
 img {border:3px solid black; 
